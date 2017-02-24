@@ -2,7 +2,7 @@
 
 A Simple React Menu to demonstrate React code
 
-npm install
-npm run dev
+npm install <br/>
+npm run dev <br/>
 
 open localhost:8080
